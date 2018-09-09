@@ -6,24 +6,24 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-PushButton			KEYWORD1
+PushButton	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-update				KEYWORD2
-isActive			KEYWORD2
-isClicked			KEYWORD2
-isDoubleClicked		KEYWORD2
-isHeld				KEYWORD2
-isReleased			KEYWORD2
+update	KEYWORD2
+isActive	KEYWORD2
+isClicked	KEYWORD2
+isDoubleClicked	KEYWORD2
+isHeld	KEYWORD2
+isReleased	KEYWORD2
 disableDoubleClick	KEYWORD2
 enableDoubleClick	KEYWORD2
-setDebounceTime		KEYWORD2
-setHoldTime			KEYWORD2
-setDoubleClickTime 	KEYWORD2
-setActiveLogic 		KEYWORD2
+setDebounceTime	KEYWORD2
+setHoldTime	KEYWORD2
+setDoubleClickTime	KEYWORD2
+setActiveLogic	KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
